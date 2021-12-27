@@ -7,7 +7,7 @@ package answer;
 
 
 public class ques1 implements Answer {
-    //EarthAir implements Air class
+   
     private double a;
     private double b;
     private double c;

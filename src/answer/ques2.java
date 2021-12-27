@@ -21,7 +21,7 @@ public class ques2 extends ques1{
         this.b = A1;
         this.c = A2;
     }
-    //overrides AirDetails method from EarthAir class
+   
     @Override
     public void AnsDetails() {
        
